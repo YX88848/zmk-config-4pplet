@@ -4,6 +4,11 @@
 #include <dt-bindings/zmk/rgb.h>
 
 #define FN1 1
+/ {
+    chosen {
+        zmk,physical-layout = &zmk60;
+    };
+};
 
 / {
     keymap {
