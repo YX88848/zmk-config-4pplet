@@ -6,7 +6,7 @@
 #define FN1 1
 / {
     chosen {
-        zmk,physical-layout = &zmk60;
+        zmk,physical-layout = &Default (All);
     };
 };
 
