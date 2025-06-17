@@ -52,7 +52,7 @@ CONFIG_BUILD_OUTPUT_UF2=y
 
 # Enable ZMK studio
 CONFIG_ZMK_STUDIO=y
-CONFIG_ZMK_STUDIO_LOCKING=n
+CONFIG_ZMK_STUDIO_LOCKING=y
 
 # Set TX power level
 # CONFIG_BT_CTLR_TX_PWR_PLUS_8=y  # Sometimes recommended if used in a metal enclosure
