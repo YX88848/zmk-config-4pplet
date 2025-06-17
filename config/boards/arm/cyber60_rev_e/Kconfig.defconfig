@@ -4,7 +4,7 @@
 if BOARD_CYBER60_REV_E
 
 config ZMK_KEYBOARD_NAME
-	default "cyber60 Rev E"
+	default "zmk60 Rev E"
 
 if USB
 
