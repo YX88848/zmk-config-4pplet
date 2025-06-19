@@ -152,7 +152,8 @@
 };
 
 zephyr_udc0: &usbd {
-    status = "okay";
+  compatible = "nordic,nrf-usbd";     
+  status = "okay";
 };
 
 &usbd {
