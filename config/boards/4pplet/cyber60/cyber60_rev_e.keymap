@@ -24,7 +24,6 @@
             &kp CLCK	&kp A		&kp S		&kp D		&kp F		&kp G     &kp H    &kp J     &kp K      &kp L		&kp SEMI	&kp SQT		&kp NUHS	&kp RET
             &kp LSHFT	&kp NUBS	&kp Z		&kp X		&kp C		&kp V     &kp B    &kp N     &kp M  	&kp COMMA   &kp DOT   	&kp FSLH	&kp RSHFT   &mo FN1
             &kp LCTRL	&kp LGUI	&kp LALT	&kp SPACE  &kp RALT  &mo FN1  &kp RGUI  &kp RCTRL
-            &kp C_PP
             >;
 
            
@@ -47,7 +46,6 @@
             &bootloader	&kp LEFT	&kp DOWN        &kp RIGHT       &trans          &trans          &trans          &trans          &trans  		&trans  &trans   &trans   &trans  &trans
             &studio_unlock		&trans		&rgb_ug RGB_TOG	&rgb_ug RGB_BRI	&rgb_ug RGB_EFR	&rgb_ug RGB_HUD	&rgb_ug RGB_HUI	&rgb_ug RGB_SAD	&rgb_ug RGB_SAI &trans  &trans   &trans   &trans  &trans
             &trans		&trans		&trans          &trans                 &trans          &trans          &trans  		&trans
-            &kp C_PP
             >;
 
             
@@ -60,7 +58,6 @@
             &trans	&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             &trans  &trans  &trans	&trans	&trans	&trans	&trans	&trans	&trans  &trans  &trans  &trans  &trans  &trans
             &trans  &trans  &trans  &trans  &trans   &trans  &trans  &trans
-            &trans
             >;
 
             
@@ -73,7 +70,6 @@
             &trans	&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
             &trans  &trans  &trans	&trans	&trans	&trans	&trans	&trans	&trans  &trans  &trans  &trans  &trans  &trans
             &trans  &trans  &trans  &trans  &trans   &trans  &trans  &trans
-            &trans
             >;
 
            
